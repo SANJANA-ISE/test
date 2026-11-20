@@ -1,8 +1,8 @@
 
-a = 30
-b = 40
+a = 120
+b = 70
 
-sum = a + b
+sum = a - b
 
 print("Welcome to Python")
 print("Sum =", sum)
